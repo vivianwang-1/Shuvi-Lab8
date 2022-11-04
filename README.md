@@ -1,2 +1,3 @@
 # Shuvi-Lab8
-lab 8 content
+Lab: Lab 8
+Team Members: Shuyan Yan & Vivian Wang
